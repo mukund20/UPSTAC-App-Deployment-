@@ -3,3 +3,4 @@ The application named UPSTAC (Unified Platform for Syndromic mapping, Testing, A
 
 The back end of this application is written in Java, while the front end uses the React framework. And the database is built on MySQL.
 
+The code is not mine. I am just deploying this application to AWS EC2.(  Manual Deployment)
